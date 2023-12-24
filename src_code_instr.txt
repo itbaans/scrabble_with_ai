@@ -1,6 +1,3 @@
-Run Frame class to play!
---------------------------------------
-
 Panel class is for displaying the game
 
 Board class is for game logic
