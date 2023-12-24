@@ -20,6 +20,6 @@ just run the .jar file to play !
 This Scrabble Program was developed as part of a data structures project. Contributions and improvements are welcome. Feel free to explore and enhance the codebase.
 
 ## Acknowledgments
-Special thanks to Andrew W. Appel and Guy J. Jacobson for their pioneering work on the Scrabble algorithm that forms the backbone of this program.
+Although this was the Data Structures project, I would like to thank our ITC teacher Sir Jawwad Ahmed Farid for sharing this amazing resource to implement the algorithm.
 
 Have fun playing Scrabble! If you have any questions or suggestions, please don't hesitate to reach out.
