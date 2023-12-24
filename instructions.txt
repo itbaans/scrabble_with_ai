@@ -1,0 +1,20 @@
+Run Frame class to play!
+--------------------------------------
+
+Panel class is for displaying the game
+
+Board class is for game logic
+
+TheAI class is where the algorithm is called
+
+Frame class is to run the game
+
+MyTrie class is where we implemented the Data Structure
+
+There are other helping classes too but the above mentioned classes are where things happen.
+
+moves.txt file update with move that was placed on board with the score untill the game ends.
+
+horiMoves.txt displays all the possible horrizental moves that can be placed on the current move
+
+verMoves.txt display all the possible vertical moves that can be placed on the current move
